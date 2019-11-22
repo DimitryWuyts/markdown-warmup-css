@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://media1.giphy.com/media/zhJR6HbK4fthC/giphy.gif?cid=790b7611b206d0727b6a24b001152ea63072580084b31674&rid=giphy.gif")
+}
+
+h1 {color: red;
+    margin-left: 57%;
+    margin-right: 43%;
+    text-shadow:
+            -1px -1px 0 #000,
+            1px -1px 0 #000,
+            -1px 1px 0 #000,
+            1px 1px 0 #000;}
+
+h2 {color: red;
+    text-shadow:
+            -1px -1px 0 #000,
+            1px -1px 0 #000,
+            -1px 1px 0 #000,
+            1px 1px 0 #000;}
+p {color: white}
+
+ul { color: white}
+
+table {color: white;
+background-image: url("https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/06/931/524/iStock-flames.jpg?ve=1&tl=1")}
+
+#mypicture {
+    border-radius: 100px;
+    border: 5px solid black;
+    box-shadow: 20px 20px 50px #FF0000;
+    margin-left: 50%;
+    margin-right: 50%;
+    height: 25%;
+    width: 25%;
+
+
+}
+
+#baby {
+    margin-left: 52%;
+    font-weight: bolder;
+}
+
+#bean { border-radius: 50%;
+margin-left: 50%;
+margin-right: 50%;
+height: 10%;
+width: 10%;
+box-shadow: 20px -20px 60px greenyellow;
+    border: 2px solid white;}
